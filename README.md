@@ -17,4 +17,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanozcan&count_private=true&layout=compact&theme=github_dark&hide_border=true)](https://github.com/hakanozcan/github-readme-stats)
 
-
