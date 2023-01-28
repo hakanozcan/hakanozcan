@@ -1,7 +1,7 @@
 
 <h3 align="left">Codewars</h3>
 <p align="left"> 
-<a href="https://www.codewars.com/users/hakanozcan/"> <img src="https://www.codewars.com/users/hakanozcan/badges/large" /> </a>
+<a href="https://www.codewars.com/users/hakanozcan/" target="_blank"> <img src="https://www.codewars.com/users/hakanozcan/badges/large" /> </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
